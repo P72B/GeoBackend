@@ -1,0 +1,584 @@
+{
+	"geocoded_waypoints": [{
+		"geocoder_status": "OK",
+		"place_id": "ChIJqycZA-1RqEcRxCLTLAqO6HM",
+		"types": ["establishment", "point_of_interest", "university"]
+	}, {
+		"geocoder_status": "OK",
+		"place_id": "ChIJydq-W7RRqEcRsSKSd7SiM6o",
+		"types": [
+			"bar",
+			"establishment",
+			"food",
+			"night_club",
+			"point_of_interest",
+			"restaurant"]
+	}],
+	"routes": [{
+		"bounds": {
+			"northeast": {
+				"lat": 52.5329704,
+				"lng": 13.3861024
+			},
+			"southwest": {
+				"lat": 52.5076601,
+				"lng": 13.3637046
+			}
+		},
+		"copyrights": "Map data ©2020 GeoBasis-DE/BKG (©2009), Google",
+		"legs": [{
+			"distance": {
+				"text": "4.1 km",
+				"value": 4100
+			},
+			"duration": {
+				"text": "51 mins",
+				"value": 3071
+			},
+			"end_address": "Stauffenbergstraße 26, 10785 Berlin, Germany",
+			"end_location": {
+				"lat": 52.5076601,
+				"lng": 13.3645997
+			},
+			"start_address": "Zinnowitzer Str. 11, 10115 Berlin, Germany",
+			"start_location": {
+				"lat": 52.5329704,
+				"lng": 13.3832851
+			},
+			"steps": [{
+				"distance": {
+					"text": "0.1 km",
+					"value": 146
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 104
+				},
+				"end_location": {
+					"lat": 52.5327733,
+					"lng": 13.3846909
+				},
+				"html_instructions": "Head \u003cb\u003esoutheast\u003c/b\u003e toward \u003cb\u003eCaroline-Michaelis-Straße\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+				"polyline": {
+					"points": "ajs_Iq|tpAX[dAgADGBE?E@E@G?GCI_@mAIMAACAGGEMCI"
+				},
+				"start_location": {
+					"lat": 52.5329704,
+					"lng": 13.3832851
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 186
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 137
+				},
+				"end_location": {
+					"lat": 52.5313295,
+					"lng": 13.3861024
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCaroline-Michaelis-Straße\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "yhs_IieupADGRWNOFMRCJAJG~AkBh@o@PSBCRQLG"
+				},
+				"start_location": {
+					"lat": 52.5327733,
+					"lng": 13.3846909
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.4 km",
+					"value": 362
+				},
+				"duration": {
+					"text": "5 mins",
+					"value": 281
+				},
+				"end_location": {
+					"lat": 52.5300375,
+					"lng": 13.3812858
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eInvalidenstraße\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "y_s_IcnupAHn@Nx@Hh@Hd@Nv@VtA|@lFBNF^H`@TjAl@fDHb@H`@"
+				},
+				"start_location": {
+					"lat": 52.5313295,
+					"lng": 13.3861024
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 209
+				},
+				"duration": {
+					"text": "3 mins",
+					"value": 154
+				},
+				"end_location": {
+					"lat": 52.529157,
+					"lng": 13.3785986
+				},
+				"html_instructions": "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eInvalidenstraße\u003c/b\u003e",
+				"maneuver": "turn-slight-left",
+				"polyline": {
+					"points": "wwr_IaptpAFLDFDVLl@b@xBBHRjAFRFVDNFRHVH\\FTVpA"
+				},
+				"start_location": {
+					"lat": 52.5300375,
+					"lng": 13.3812858
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.1 km",
+					"value": 104
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 77
+				},
+				"end_location": {
+					"lat": 52.5282109,
+					"lng": 13.3787469
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePlatz vor dem Neuen Tor\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "grr_Ig_tpAh@Eh@ENCLA|@ILA"
+				},
+				"start_location": {
+					"lat": 52.529157,
+					"lng": 13.3785986
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "75 m",
+					"value": 75
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 55
+				},
+				"end_location": {
+					"lat": 52.5275446,
+					"lng": 13.378865
+				},
+				"html_instructions": "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRobert-Koch-Platz\u003c/b\u003e",
+				"maneuver": "turn-slight-left",
+				"polyline": {
+					"points": "ilr_Ie`tpAtBSNA"
+				},
+				"start_location": {
+					"lat": 52.5282109,
+					"lng": 13.3787469
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.6 km",
+					"value": 558
+				},
+				"duration": {
+					"text": "7 mins",
+					"value": 418
+				},
+				"end_location": {
+					"lat": 52.5225422,
+					"lng": 13.3795897
+				},
+				"html_instructions": "Continue onto \u003cb\u003eLuisenstraße\u003c/b\u003e",
+				"polyline": {
+					"points": "chr_I{`tpAp@KN?^@h@GNAzAOFAHCLCfCYbAILF\\CNHdBQNAVErBQLAtBULAd@ELA"
+				},
+				"start_location": {
+					"lat": 52.5275446,
+					"lng": 13.378865
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 232
+				},
+				"duration": {
+					"text": "3 mins",
+					"value": 190
+				},
+				"end_location": {
+					"lat": 52.5220068,
+					"lng": 13.376359
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eReinhardtstraße\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "{hq_ImetpADn@BVj@bGDh@?D@D?BBP@TBVNpA@LHt@BT@R"
+				},
+				"start_location": {
+					"lat": 52.5225422,
+					"lng": 13.3795897
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "82 m",
+					"value": 82
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 59
+				},
+				"end_location": {
+					"lat": 52.5216535,
+					"lng": 13.3753217
+				},
+				"html_instructions": "Continue onto \u003cb\u003eKronprinzenbrücke\u003c/b\u003e",
+				"polyline": {
+					"points": "qeq_IgqspABLDLBJJf@Pr@J`@DNBLDJ"
+				},
+				"start_location": {
+					"lat": 52.5220068,
+					"lng": 13.376359
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 158
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 109
+				},
+				"end_location": {
+					"lat": 52.520717,
+					"lng": 13.3735826
+				},
+				"html_instructions": "Continue onto \u003cb\u003eKonrad-Adenauer-Straße\u003c/b\u003e",
+				"polyline": {
+					"points": "icq_IwjspAL`@bA~BVh@`@~@LZP^LR"
+				},
+				"start_location": {
+					"lat": 52.5216535,
+					"lng": 13.3753217
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.1 km",
+					"value": 131
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 96
+				},
+				"end_location": {
+					"lat": 52.5196118,
+					"lng": 13.3734618
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eKonrad-Adenauer-Straße\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "o}p_I{_spA|E??V"
+				},
+				"start_location": {
+					"lat": 52.520717,
+					"lng": 13.3735826
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 179
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 142
+				},
+				"end_location": {
+					"lat": 52.5195715,
+					"lng": 13.3708478
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePaul-Löbe-Allee\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "qvp_Ic_spA?X?hE?j@?V?V@zA?rA?D?FDJ"
+				},
+				"start_location": {
+					"lat": 52.5196118,
+					"lng": 13.3734618
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 196
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 140
+				},
+				"end_location": {
+					"lat": 52.517748,
+					"lng": 13.3707399
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHeinrich-von-Gagern-Straße\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003ePaul-Löbe-Allee\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Heinrich-von-Gagern-Straße\u003c/div\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "ivp_IynrpAB@BBB?D@D?N@xA?n@?B?tC?F@H@LF"
+				},
+				"start_location": {
+					"lat": 52.5195715,
+					"lng": 13.3708478
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 242
+				},
+				"duration": {
+					"text": "3 mins",
+					"value": 188
+				},
+				"end_location": {
+					"lat": 52.5156564,
+					"lng": 13.3697888
+				},
+				"html_instructions": "Continue onto \u003cb\u003eYitzhak-Rabin-Straße\u003c/b\u003e",
+				"polyline": {
+					"points": "}jp_IcnrpAb@Rz@^dBt@n@XbAb@NHTFD?F@F@R@D@PC"
+				},
+				"start_location": {
+					"lat": 52.517748,
+					"lng": 13.3707399
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "9 m",
+					"value": 9
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 19
+				},
+				"end_location": {
+					"lat": 52.5156465,
+					"lng": 13.3696647
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStr. des 17. Juni\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB2\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eB5\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "{}o_IehrpA@P?F"
+				},
+				"start_location": {
+					"lat": 52.5156564,
+					"lng": 13.3697888
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "86 m",
+					"value": 86
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 64
+				},
+				"end_location": {
+					"lat": 52.5149542,
+					"lng": 13.369311
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "y}o_IkgrpAx@\\pAf@"
+				},
+				"start_location": {
+					"lat": 52.5156465,
+					"lng": 13.3696647
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "94 m",
+					"value": 94
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 65
+				},
+				"end_location": {
+					"lat": 52.5143918,
+					"lng": 13.369117
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "myo_IeerpA@ODKBGBGBEDEDCDCDAF?J@HDFBDFDFBFDH@HBJ?J@J?J"
+				},
+				"start_location": {
+					"lat": 52.5149542,
+					"lng": 13.369311
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.4 km",
+					"value": 386
+				},
+				"duration": {
+					"text": "5 mins",
+					"value": 278
+				},
+				"end_location": {
+					"lat": 52.5109285,
+					"lng": 13.3688755
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "}uo_I_drpAL@n@@H?fBFhDZdBA^ARJlACpBB"
+				},
+				"start_location": {
+					"lat": 52.5143918,
+					"lng": 13.369117
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.3 km",
+					"value": 323
+				},
+				"duration": {
+					"text": "4 mins",
+					"value": 234
+				},
+				"end_location": {
+					"lat": 52.5100847,
+					"lng": 13.3643376
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "i`o_IobrpAj@zFv@vID\\DJ@BDF@@@D@BBHJ|@ZlD"
+				},
+				"start_location": {
+					"lat": 52.5109285,
+					"lng": 13.3688755
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "11 m",
+					"value": 11
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 8
+				},
+				"end_location": {
+					"lat": 52.50996079999999,
+					"lng": 13.3644505
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGroßer Weg\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "_{n_IcfqpAHEAGNG"
+				},
+				"start_location": {
+					"lat": 52.5100847,
+					"lng": 13.3643376
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 203
+				},
+				"duration": {
+					"text": "3 mins",
+					"value": 159
+				},
+				"end_location": {
+					"lat": 52.5082517,
+					"lng": 13.3637046
+				},
+				"html_instructions": "Continue onto \u003cb\u003eStauffenbergstraße\u003c/b\u003e",
+				"polyline": {
+					"points": "gzn_IyfqpAH@F@VF|Aj@pDnAJDNF"
+				},
+				"start_location": {
+					"lat": 52.50996079999999,
+					"lng": 13.3644505
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "85 m",
+					"value": 85
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 60
+				},
+				"end_location": {
+					"lat": 52.5079942,
+					"lng": 13.3647607
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eSigismundstraße\u003c/b\u003e",
+				"maneuver": "turn-left",
+				"polyline": {
+					"points": "qon_IcbqpAd@yELD"
+				},
+				"start_location": {
+					"lat": 52.5082517,
+					"lng": 13.3637046
+				},
+				"travel_mode": "WALKING"
+			}, {
+				"distance": {
+					"text": "43 m",
+					"value": 43
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 34
+				},
+				"end_location": {
+					"lat": 52.5076601,
+					"lng": 13.3645997
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHitzigallee\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "}mn_IwhqpA`A^"
+				},
+				"start_location": {
+					"lat": 52.5079942,
+					"lng": 13.3647607
+				},
+				"travel_mode": "WALKING"
+			}],
+			"traffic_speed_entry": [],
+			"via_waypoint": []
+		}],
+		"overview_polyline": {
+			"points": "ajs_Iq|tpA~AcBHMB[c@wAKOKIIWp@}@^EJG~AkBz@cAVULGHn@XbBnB`Lj@|Cv@jEH`@FLJ^p@fDf@`C`@xA^fBrAKhBQfEa@^@h@GjBQfDc@bAILF\\CNHtBSjCWvD_@LADn@n@zGFx@j@~F`AbERl@zAhDn@zA^r@|E??V?bF@vD?xADRPF~C@xC?PBrEpBrB|@d@Ph@DVA@XjCdAF[P[XITFLJPb@Dn@nDJhDZdBA^ARJlACpBBbBrQJh@FJHTf@jFHEAGNGH@^HjHhCd@yELD`A^"
+		},
+		"summary": "Invalidenstraße",
+		"warnings": [
+			"Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."],
+		"waypoint_order": []
+	}],
+	"status": "OK"
+}

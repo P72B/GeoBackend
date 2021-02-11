@@ -1,0 +1,1772 @@
+{
+    "waypoints": [
+        {
+            "location": [
+                13.388798,
+                52.517033
+            ],
+            "distance": 4.231666,
+            "hint": "wAYKgONOAYBhAAAAlgAAAAAAAAAAAAAASjFaQU1xpUEAAAAAAAAAAGEAAACWAAAAAAAAAAAAAAABAAAA_kvMAKlYIQM8TMwArVghAwAA7wocyqa4",
+            "name": "Friedrichstraße"
+        },
+        {
+            "location": [
+                13.428554,
+                52.523239
+            ],
+            "distance": 2.226595,
+            "hint": "ImMEgDVjBID4AAAAkQEAAMkAAAAAAAAAsowKQkpQX0I0eOBBAAAAAPgAAACRAQAAyQAAAAAAAAABAAAASufMAOdwIQNL58wA03AhAwEAvxAcyqa4",
+            "name": "Platz der Vereinten Nationen"
+        }
+    ],
+    "routes": [
+        {
+            "distance": 3210.2,
+            "weight_name": "duration",
+            "legs": [
+                {
+                    "distance": 3210.2,
+                    "steps": [
+                        {
+                            "distance": 20.7,
+                            "duration": 15,
+                            "weight": 15,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.388798,
+                                        52.517033
+                                    ],
+                                    "bearings": [
+                                        175
+                                    ],
+                                    "entry": [
+                                        true
+                                    ],
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Friedrichstraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "depart",
+                                "location": [
+                                    13.388798,
+                                    52.517033
+                                ],
+                                "bearing_before": 0,
+                                "bearing_after": 175
+                            },
+                            "geometry": "mfp_I__vpAb@E"
+                        },
+                        {
+                            "distance": 690,
+                            "duration": 502.8,
+                            "weight": 502.8,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.388827,
+                                        52.516848
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        90,
+                                        180,
+                                        270
+                                    ],
+                                    "entry": [
+                                        false,
+                                        true,
+                                        true,
+                                        true
+                                    ],
+                                    "in": 0,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.390708,
+                                        52.516983
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        90,
+                                        180,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.393172,
+                                        52.517192
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        75,
+                                        240
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.395131,
+                                        52.517346
+                                    ],
+                                    "bearings": [
+                                        0,
+                                        90,
+                                        180,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.396315,
+                                        52.517439
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        180,
+                                        270,
+                                        345
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.398051,
+                                        52.517559
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        150,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.398184,
+                                        52.517567
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "ref": "B 2; B 5",
+                            "name": "Unter den Linden",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 174,
+                                "bearing_after": 82,
+                                "location": [
+                                    13.388827,
+                                    52.516848
+                                ]
+                            },
+                            "geometry": "iep_Ie_vpAAa@KgDIgCAe@Cc@WqIE_BGUEWAMCiACq@Ac@I}CAIAYIoCG}AWyIAYCgACmA"
+                        },
+                        {
+                            "distance": 239.3,
+                            "duration": 174.1,
+                            "weight": 174.1,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.398925,
+                                        52.517614
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "ref": "B 2; B 5",
+                            "name": "Schloßplatz",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "new name",
+                                "modifier": "straight",
+                                "bearing_before": 82,
+                                "bearing_after": 77,
+                                "location": [
+                                    13.398925,
+                                    52.517614
+                                ]
+                            },
+                            "geometry": "ajp_Ii~wpAGq@EYMcACI]mAKs@Ok@I[CISs@CKCGYcAOi@[gA"
+                        },
+                        {
+                            "distance": 274.8,
+                            "duration": 199.9,
+                            "weight": 199.9,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.40203,
+                                        52.518615
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        240
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.404811,
+                                        52.519918
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.404987,
+                                        52.520013
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        225,
+                                        330
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "ref": "B 2; B 5",
+                            "name": "Karl-Liebknecht-Straße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "new name",
+                                "modifier": "straight",
+                                "bearing_before": 57,
+                                "bearing_after": 57,
+                                "location": [
+                                    13.40203,
+                                    52.518615
+                                ]
+                            },
+                            "geometry": "kpp_IuqxpACOm@kBAGCEK_@Si@}@eCQ_@iAoCCGMYQc@Ym@"
+                        },
+                        {
+                            "distance": 104,
+                            "duration": 75,
+                            "weight": 75,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.405218,
+                                        52.52014
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        150,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.405309,
+                                        52.520067
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        195,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 47,
+                                "bearing_after": 142,
+                                "location": [
+                                    13.405218,
+                                    52.52014
+                                ]
+                            },
+                            "geometry": "{yp_IseypAHIBGnAsF"
+                        },
+                        {
+                            "distance": 49.8,
+                            "duration": 35.7,
+                            "weight": 35.7,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.406534,
+                                        52.519672
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        180,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.406759,
+                                        52.519797
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        240,
+                                        345
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "end of road",
+                                "modifier": "left",
+                                "bearing_before": 116,
+                                "bearing_after": 35,
+                                "location": [
+                                    13.406534,
+                                    52.519672
+                                ]
+                            },
+                            "geometry": "}vp_IymypAKKGMES?S@UDQHM"
+                        },
+                        {
+                            "distance": 109.5,
+                            "duration": 78.9,
+                            "weight": 78.9,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.407131,
+                                        52.519714
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        165,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.407728,
+                                        52.520013
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        225,
+                                        345
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 130,
+                                "bearing_after": 50,
+                                "location": [
+                                    13.407131,
+                                    52.519714
+                                ]
+                            },
+                            "geometry": "ewp_IqqypAYu@a@aA_AeC"
+                        },
+                        {
+                            "distance": 44,
+                            "duration": 31.7,
+                            "weight": 31.7,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.408395,
+                                        52.520329
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        225,
+                                        345
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 52,
+                                "bearing_after": 112,
+                                "location": [
+                                    13.408395,
+                                    52.520329
+                                ]
+                            },
+                            "geometry": "a{p_IoyypA\\uB"
+                        },
+                        {
+                            "distance": 172.8,
+                            "duration": 124.4,
+                            "weight": 124.4,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.408994,
+                                        52.520175
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        150,
+                                        225,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.409544,
+                                        52.520479
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        120,
+                                        225
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.41035,
+                                        52.520845
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        180,
+                                        240
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 112,
+                                "bearing_after": 42,
+                                "location": [
+                                    13.408994,
+                                    52.520175
+                                ]
+                            },
+                            "geometry": "czp_Ie}ypAEKCEk@oAEKiAaDw@aC"
+                        },
+                        {
+                            "distance": 49.3,
+                            "duration": 35.5,
+                            "weight": 35.5,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.410997,
+                                        52.521133
+                                    ],
+                                    "bearings": [
+                                        135,
+                                        240,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Gontardstraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "end of road",
+                                "modifier": "right",
+                                "bearing_before": 53,
+                                "bearing_after": 136,
+                                "location": [
+                                    13.410997,
+                                    52.521133
+                                ]
+                            },
+                            "geometry": "a`q_IwizpA~@cB"
+                        },
+                        {
+                            "distance": 15.5,
+                            "duration": 11.1,
+                            "weight": 11.1,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.411495,
+                                        52.52081
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.411516,
+                                        52.520822
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.411548,
+                                        52.520838
+                                    ],
+                                    "bearings": [
+                                        60,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.411629,
+                                        52.520875
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        240,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.411653,
+                                        52.520888
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "S+U Alexanderplatz/Gontardstraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 136,
+                                "bearing_after": 46,
+                                "location": [
+                                    13.411495,
+                                    52.52081
+                                ]
+                            },
+                            "geometry": "a~p_I{lzpAACCEACCGACACAC"
+                        },
+                        {
+                            "distance": 338.5,
+                            "duration": 243.7,
+                            "weight": 243.7,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.411672,
+                                        52.520898
+                                    ],
+                                    "bearings": [
+                                        135,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.412119,
+                                        52.520923
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.412411,
+                                        52.521083
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        135,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.412458,
+                                        52.521086
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        270,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.41284,
+                                        52.521147
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        255,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.413097,
+                                        52.521271
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        150,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.414075,
+                                        52.52182
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.414262,
+                                        52.521945
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        225
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.414823,
+                                        52.522382
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        225
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.414977,
+                                        52.522497
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        225,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.415093,
+                                        52.522582
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        135,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "end of road",
+                                "modifier": "right",
+                                "bearing_before": 47,
+                                "bearing_after": 130,
+                                "location": [
+                                    13.411672,
+                                    52.520898
+                                ]
+                            },
+                            "geometry": "s~p_I}mzpAHMH[Wo@_@y@AIKkAWs@q@eB{@}AYc@uAoBW_@CCKQ]e@"
+                        },
+                        {
+                            "distance": 136.3,
+                            "duration": 100,
+                            "weight": 100,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.415283,
+                                        52.522731
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        120,
+                                        225,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.41644,
+                                        52.522192
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        135,
+                                        210,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.416715,
+                                        52.522059
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210,
+                                        315
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                }
+                            ],
+                            "ref": "B 2; B 5",
+                            "name": "Alexanderstraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 36,
+                                "bearing_after": 126,
+                                "location": [
+                                    13.415283,
+                                    52.522731
+                                ]
+                            },
+                            "geometry": "ajq_Iod{pABKBGDIjAgDBGLYXw@DIFU"
+                        },
+                        {
+                            "distance": 11.8,
+                            "duration": 8.6,
+                            "weight": 8.6,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.416884,
+                                        52.52199
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 123,
+                                "bearing_after": 30,
+                                "location": [
+                                    13.416884,
+                                    52.52199
+                                ]
+                            },
+                            "geometry": "meq_Ion{pAOOAC"
+                        },
+                        {
+                            "distance": 104.5,
+                            "duration": 75.1,
+                            "weight": 75.1,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.416975,
+                                        52.522081
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        120,
+                                        210
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.417151,
+                                        52.522029
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.41826,
+                                        52.521911
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 30,
+                                "bearing_after": 115,
+                                "location": [
+                                    13.416975,
+                                    52.522081
+                                ]
+                            },
+                            "geometry": "_fq_Ico{pAHa@Z}AD{@BYBWQQII"
+                        },
+                        {
+                            "distance": 46.9,
+                            "duration": 33.8,
+                            "weight": 33.8,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.418307,
+                                        52.521956
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        210,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.418575,
+                                        52.521993
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        195,
+                                        255
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 32,
+                                "bearing_after": 75,
+                                "location": [
+                                    13.418307,
+                                    52.521956
+                                ]
+                            },
+                            "geometry": "geq_Imw{pAEu@KoA"
+                        },
+                        {
+                            "distance": 43.6,
+                            "duration": 31.4,
+                            "weight": 31.4,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.418982,
+                                        52.522051
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        255
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Karl-Marx-Allee",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 75,
+                                "bearing_after": 28,
+                                "location": [
+                                    13.418982,
+                                    52.522051
+                                ]
+                            },
+                            "geometry": "yeq_Is{{pAOKKcB"
+                        },
+                        {
+                            "distance": 7.8,
+                            "duration": 5.6,
+                            "weight": 5.6,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.419537,
+                                        52.522191
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        210,
+                                        255
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Berolinastraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 77,
+                                "bearing_after": 29,
+                                "location": [
+                                    13.419537,
+                                    52.522191
+                                ]
+                            },
+                            "geometry": "ufq_Ic_|pAKI"
+                        },
+                        {
+                            "distance": 172.7,
+                            "duration": 124.4,
+                            "weight": 124.4,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.419594,
+                                        52.522252
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        210
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.420104,
+                                        52.522092
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        90,
+                                        210,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 3,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.420523,
+                                        52.522071
+                                    ],
+                                    "bearings": [
+                                        75,
+                                        180,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.421306,
+                                        52.522226
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        60,
+                                        255
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 29,
+                                "bearing_after": 116,
+                                "location": [
+                                    13.419594,
+                                    52.522252
+                                ]
+                            },
+                            "geometry": "agq_Im_|pA^eBBsA_@}Ck@}B"
+                        },
+                        {
+                            "distance": 16.2,
+                            "duration": 11.7,
+                            "weight": 11.7,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.42194,
+                                        52.522451
+                                    ],
+                                    "bearings": [
+                                        120,
+                                        210,
+                                        240,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Berolinastraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 59,
+                                "bearing_after": 116,
+                                "location": [
+                                    13.42194,
+                                    52.522451
+                                ]
+                            },
+                            "geometry": "ihq_Icn|pAJi@"
+                        },
+                        {
+                            "distance": 167.2,
+                            "duration": 120.4,
+                            "weight": 120.4,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.422154,
+                                        52.522385
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        120,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.422787,
+                                        52.52315
+                                    ],
+                                    "bearings": [
+                                        30,
+                                        135,
+                                        210,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Berolinastraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 116,
+                                "bearing_after": 25,
+                                "location": [
+                                    13.422154,
+                                    52.522385
+                                ]
+                            },
+                            "geometry": "}gq_Imo|pAq@g@eBwASM_@[_Aq@"
+                        },
+                        {
+                            "distance": 43,
+                            "duration": 31,
+                            "weight": 31,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.423251,
+                                        52.523732
+                                    ],
+                                    "bearings": [
+                                        120,
+                                        210,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "end of road",
+                                "modifier": "right",
+                                "bearing_before": 25,
+                                "bearing_after": 115,
+                                "location": [
+                                    13.423251,
+                                    52.523732
+                                ]
+                            },
+                            "geometry": "ipq_Iiv|pA`@qB"
+                        },
+                        {
+                            "distance": 27,
+                            "duration": 19.4,
+                            "weight": 19.4,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.42382,
+                                        52.52356
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        120,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                },
+                                {
+                                    "location": [
+                                        13.423863,
+                                        52.523633
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        120,
+                                        195,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "left",
+                                "bearing_before": 115,
+                                "bearing_after": 19,
+                                "location": [
+                                    13.42382,
+                                    52.52356
+                                ]
+                            },
+                            "geometry": "goq_I{y|pAMGECGEC?AAECEC"
+                        },
+                        {
+                            "distance": 177.5,
+                            "duration": 129.7,
+                            "weight": 129.7,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.423955,
+                                        52.523788
+                                    ],
+                                    "bearings": [
+                                        15,
+                                        120,
+                                        195,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false,
+                                        true
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                },
+                                {
+                                    "location": [
+                                        13.425475,
+                                        52.523337
+                                    ],
+                                    "bearings": [
+                                        45,
+                                        105,
+                                        300
+                                    ],
+                                    "entry": [
+                                        true,
+                                        true,
+                                        false
+                                    ],
+                                    "in": 2,
+                                    "out": 1
+                                }
+                            ],
+                            "name": "Mollstraße",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "turn",
+                                "modifier": "right",
+                                "bearing_before": 19,
+                                "bearing_after": 115,
+                                "location": [
+                                    13.423955,
+                                    52.523788
+                                ]
+                            },
+                            "geometry": "upq_Iwz|pADOXwA^iBLm@Jo@Jq@BSBYBe@@U@W"
+                        },
+                        {
+                            "distance": 147.5,
+                            "duration": 106.1,
+                            "weight": 106.1,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.426375,
+                                        52.523202
+                                    ],
+                                    "bearings": [
+                                        90,
+                                        270
+                                    ],
+                                    "entry": [
+                                        true,
+                                        false
+                                    ],
+                                    "in": 1,
+                                    "out": 0
+                                }
+                            ],
+                            "name": "Platz der Vereinten Nationen",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "new name",
+                                "modifier": "straight",
+                                "bearing_before": 94,
+                                "bearing_after": 90,
+                                "location": [
+                                    13.426375,
+                                    52.523202
+                                ]
+                            },
+                            "geometry": "_mq_I{i}pA?[?[?e@Ao@?]?EAk@?o@CcD"
+                        },
+                        {
+                            "distance": 0,
+                            "duration": 0,
+                            "weight": 0,
+                            "driving_side": "right",
+                            "intersections": [
+                                {
+                                    "location": [
+                                        13.428554,
+                                        52.523239
+                                    ],
+                                    "bearings": [
+                                        268
+                                    ],
+                                    "entry": [
+                                        true
+                                    ],
+                                    "in": 0
+                                }
+                            ],
+                            "name": "Platz der Vereinten Nationen",
+                            "mode": "walking",
+                            "maneuver": {
+                                "type": "arrive",
+                                "location": [
+                                    13.428554,
+                                    52.523239
+                                ],
+                                "bearing_before": 88,
+                                "bearing_after": 0
+                            },
+                            "geometry": "gmq_Imw}pA"
+                        }
+                    ],
+                    "duration": 2325,
+                    "weight": 2325,
+                    "summary": "Unter den Linden, Karl-Liebknecht-Straße"
+                }
+            ],
+            "duration": 2325,
+            "weight": 2325,
+            "geometry": "mfp_I__vpAb@EAa@KgDIgCAe@Cc@WqIE_BGUEWAMCiACq@Ac@I}CAIAYIoCG}AWyIAYCgACmAGq@EYMcACI]mAKs@Ok@I[CISs@CKCGYcAOi@[gACOm@kBAGCEK_@Si@}@eCQ_@iAoCCGMYQc@Ym@HIBGnAsFKKGMES?S@UDQHMYu@a@aA_AeC\\uBEKCEk@oAEKiAaDw@aC~@cBACCEACCGACACACHMH[Wo@_@y@AIKkAWs@q@eB{@}AYc@uAoBW_@CCKQ]e@BKBGDIjAgDBGLYXw@DIFUOOACHa@Z}AD{@BYBWQQIIEu@KoAOKKcBKI^eBBsA_@}Ck@}BJi@q@g@eBwASM_@[_Aq@`@qBMGECGEC?AAECECDOXwA^iBLm@Jo@Jq@BSBYBe@@U@W?[?[?e@Ao@?]?EAk@?o@CcD"
+        }
+    ],
+    "code": "Ok"
+}

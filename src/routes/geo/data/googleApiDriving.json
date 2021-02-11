@@ -1,0 +1,243 @@
+{
+	"geocoded_waypoints": [{
+		"geocoder_status": "OK",
+		"place_id": "ChIJqycZA-1RqEcRxCLTLAqO6HM",
+		"types": ["establishment", "point_of_interest", "university"]
+	}, {
+		"geocoder_status": "OK",
+		"place_id": "ChIJydq-W7RRqEcRsSKSd7SiM6o",
+		"types": [
+			"bar",
+			"establishment",
+			"food",
+			"night_club",
+			"point_of_interest",
+			"restaurant"]
+	}],
+	"routes": [{
+		"bounds": {
+			"northeast": {
+				"lat": 52.5347181,
+				"lng": 13.3861514
+			},
+			"southwest": {
+				"lat": 52.5051553,
+				"lng": 13.3638881
+			}
+		},
+		"copyrights": "Map data ©2020 GeoBasis-DE/BKG (©2009), Google",
+		"legs": [{
+			"distance": {
+				"text": "5.3 km",
+				"value": 5313
+			},
+			"duration": {
+				"text": "12 mins",
+				"value": 705
+			},
+			"end_address": "Stauffenbergstraße 26, 10785 Berlin, Germany",
+			"end_location": {
+				"lat": 52.5076062,
+				"lng": 13.3646353
+			},
+			"start_address": "Zinnowitzer Str. 11, 10115 Berlin, Germany",
+			"start_location": {
+				"lat": 52.5329704,
+				"lng": 13.3832851
+			},
+			"steps": [{
+				"distance": {
+					"text": "0.3 km",
+					"value": 253
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 76
+				},
+				"end_location": {
+					"lat": 52.5347181,
+					"lng": 13.3826182
+				},
+				"html_instructions": "Head \u003cb\u003enorthwest\u003c/b\u003e toward \u003cb\u003eCaroline-Michaelis-Straße\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+				"polyline": {
+					"points": "ajs_Iq|tpAm@r@cBnBsBxBIFC@A?C?AACAACCGw@qC"
+				},
+				"start_location": {
+					"lat": 52.5329704,
+					"lng": 13.3832851
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.4 km",
+					"value": 444
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 119
+				},
+				"end_location": {
+					"lat": 52.5313777,
+					"lng": 13.3861514
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCaroline-Michaelis-Straße\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "_us_IkxtpAnGgHbAmAl@q@DGRWLOJMVELCbBoBh@m@RU@CZY"
+				},
+				"start_location": {
+					"lat": 52.5347181,
+					"lng": 13.3826182
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.6 km",
+					"value": 632
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 113
+				},
+				"end_location": {
+					"lat": 52.5290222,
+					"lng": 13.3776703
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eInvalidenstraße\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "c`s_ImnupAL|@Lz@Jh@Hb@Nx@VtA?@|@hF@LDTLl@TlAj@dDJd@Hb@@VBRBTd@~BH`@H\\Ll@BPRz@J^Jd@^dB^nBNp@"
+				},
+				"start_location": {
+					"lat": 52.5313777,
+					"lng": 13.3861514
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.7 km",
+					"value": 741
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 123
+				},
+				"end_location": {
+					"lat": 52.52611169999999,
+					"lng": 13.3678356
+				},
+				"html_instructions": "Continue straight to stay on \u003cb\u003eInvalidenstraße\u003c/b\u003e",
+				"maneuver": "straight",
+				"polyline": {
+					"points": "kqr_ImyspAB^DXFf@FZXvAP|@Jd@L^FPDJBNJf@Nr@R`ABN\\hBLj@J`@ThAFZDTFTPx@@DNr@Hb@XpAl@tCF^Hn@Jz@HZpAlGLl@j@lCPz@"
+				},
+				"start_location": {
+					"lat": 52.5290222,
+					"lng": 13.3776703
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "1.6 km",
+					"value": 1558
+				},
+				"duration": {
+					"text": "2 mins",
+					"value": 94
+				},
+				"end_location": {
+					"lat": 52.513302,
+					"lng": 13.3701601
+				},
+				"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e to merge onto \u003cb\u003eB96\u003c/b\u003e toward \u003cb\u003eSchöneberg\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eKreuzberg\u003c/b\u003e",
+				"maneuver": "ramp-left",
+				"polyline": {
+					"points": "e_r_I_|qpAPx@JOBCDEDEHGFEDCFAD?L?v@?T?\\At@A`@CREJATEHC^Ml@SDEDELQJULa@Pg@@ILk@R_APi@La@HS@?P[BCLMrAiAPQNMXUPODCz@u@j@c@@?@AZUj@a@`@S`@Q@?JGHEFC@?NCj@Eb@?\\DVF^Nr@\\@?^N@?FDdAf@jBx@VLB@v@^t@^p@XLFb@NB@fA^jAXD@RBd@F@?B?VB@@L@XD@?L@H?VBD?b@@@@r@@PAt@Cl@EPC^Er@Mh@I`@IVERETC"
+				},
+				"start_location": {
+					"lat": 52.52611169999999,
+					"lng": 13.3678356
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.9 km",
+					"value": 923
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 60
+				},
+				"end_location": {
+					"lat": 52.5051553,
+					"lng": 13.3719457
+				},
+				"html_instructions": "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eB96\u003c/b\u003e",
+				"maneuver": "keep-right",
+				"polyline": {
+					"points": "coo_IojrpA|A_@tC}@dA[dAWd@Md@MRGLGLEHCF?@AFAFAJAJCLCLCPCJCVEf@IJAFAF?JCNGZI@?HCHCTI`@MNGxCs@n@Mb@Kv@MJCt@O`@GTAfAHfAF`@FjARXD\\D@?LDFBHD"
+				},
+				"start_location": {
+					"lat": 52.513302,
+					"lng": 13.3701601
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.6 km",
+					"value": 581
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 83
+				},
+				"end_location": {
+					"lat": 52.506044,
+					"lng": 13.3638881
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eReichpietschufer\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road may be closed at certain times or days\u003c/div\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "g|m_IuurpAUt@Qd@K\\K`@EJEPK^Mh@[tAIZMj@Mj@Md@Kj@I`@QtAEr@Cf@?V?V?Z?h@@jAB~A@XDtB@fADzADlABb@@XBTBXBRHp@"
+				},
+				"start_location": {
+					"lat": 52.5051553,
+					"lng": 13.3719457
+				},
+				"travel_mode": "DRIVING"
+			}, {
+				"distance": {
+					"text": "0.2 km",
+					"value": 181
+				},
+				"duration": {
+					"text": "1 min",
+					"value": 37
+				},
+				"end_location": {
+					"lat": 52.5076062,
+					"lng": 13.3646353
+				},
+				"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHitzigallee\u003c/b\u003e",
+				"maneuver": "turn-right",
+				"polyline": {
+					"points": "wan_IicqpAUIeBo@gBq@uAi@"
+				},
+				"start_location": {
+					"lat": 52.506044,
+					"lng": 13.3638881
+				},
+				"travel_mode": "DRIVING"
+			}],
+			"traffic_speed_entry": [],
+			"via_waypoint": []
+		}],
+		"overview_polyline": {
+			"points": "ajs_Iq|tpAqCbD}B`CK?EE{@yCfKoL`@g@JMVELCbBoB|@cA\\]ZxB|@|EdAnGzAfIHb@@VFh@fAlFn@rC~@tERpAL`A`@rB\\bBTp@HZZzAbAfFjArF`B~Hf@fD|CdOPx@JOHI\\WrAAr@AvAE~@QlAa@JKXg@^iAt@_DVu@R[vBmBz@s@nB}A\\WlAu@x@_@dAM`ADv@VvAl@bIvDfBr@fA^jAXXDbAJj@HnCJfCO~Cg@j@KrBc@zEyAjBe@tAc@ZGpB]bAMx@UjA_@hD{@rAYzCi@TAfAHfAFdDf@`@N_AzCe@fBaAhEYpA[vBIjCDpFNrHN`DFl@Hp@UImEaBuAi@"
+		},
+		"summary": "Invalidenstraße and B96",
+		"warnings": [],
+		"waypoint_order": []
+	}],
+	"status": "OK"
+}
