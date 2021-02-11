@@ -3,9 +3,9 @@ const express = require('express');
 
 const router = express.Router();
 const Transformer = require('./main/transformer');
-const DemoOsrmFetcher = require('./main/demoOsrmFetcher');
+const OsrmFetcher = require('./main/osrmFetcher');
 
-const demoOsrmFetcher = new DemoOsrmFetcher.DemoOsrmFetcher();
+const osrmFetcher = new OsrmFetcher.OsrmFetcher();
 
 router.get('/directions/json', async (req, res) => {
   const { origin } = req.query;
@@ -13,7 +13,7 @@ router.get('/directions/json', async (req, res) => {
   const { mode } = req.query;
   const { channel } = req.query;
   const { key } = req.query;
-  await demoOsrmFetcher
+  await osrmFetcher
     .getRoute(mode, origin, destination)
     .then((osrmResponseString) => {
       const osrmResponse = JSON.parse(osrmResponseString);
